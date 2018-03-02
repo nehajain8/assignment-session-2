@@ -1,0 +1,13 @@
+nav a {
+	display: block;
+}
+form input {
+	display: block;
+}
+form {
+	width: 500px;
+	margin-left: 20px;
+}
+nav {
+	margin: 20px;
+}
